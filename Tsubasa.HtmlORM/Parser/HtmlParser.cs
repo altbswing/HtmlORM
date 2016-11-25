@@ -9,6 +9,8 @@ namespace Tsubasa.HtmlORM {
 
     /// <summary>
     /// Html文字列を解析し、指定したオブジェクトを作成するクラス
+    /// 
+    /// by tsubasa
     /// </summary>
     public static class HtmlParser {
 

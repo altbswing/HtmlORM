@@ -4,6 +4,8 @@ namespace Tsubasa.HtmlORM {
 
     /// <summary>
     /// フォーマットを設定する
+    /// 
+    /// by tsubasa
     /// </summary>
     [AttributeUsage(AttributeTargets.Property, Inherited = true, AllowMultiple = false)]
     public class NodeFormatAttribute : Attribute {

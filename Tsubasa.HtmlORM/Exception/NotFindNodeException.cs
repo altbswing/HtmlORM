@@ -6,6 +6,8 @@ namespace Tsubasa.HtmlORM {
 
     /// <summary>
     /// 該当ノード見つからなかった時のエラー
+    /// 
+    /// by tsubasa
     /// </summary>
     public class NotFindNodeException : Exception {
 

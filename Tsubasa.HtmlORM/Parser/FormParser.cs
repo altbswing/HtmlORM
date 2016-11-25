@@ -9,6 +9,8 @@ namespace Tsubasa.HtmlORM {
 
     /// <summary>
     /// Entityをhttpフォームに解析
+    /// 
+    /// by tsubasa
     /// </summary>
     public static class FormParser {
 

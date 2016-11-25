@@ -5,7 +5,11 @@ using System.Text;
 
 namespace Tsubasa.HtmlORM {
 
-    /// <summary>要素のXPathを設定する</summary>
+    /// <summary>
+    /// 要素のXPathを設定する
+    /// 
+    /// by tsubasa
+    /// </summary>
     public abstract class SingleNodeAttribute : HtmlNodeAttribute {
 
         /// <summary>表示順</summary>

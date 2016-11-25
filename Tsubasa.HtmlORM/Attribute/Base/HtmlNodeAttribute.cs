@@ -5,7 +5,10 @@ using System.Text;
 
 namespace Tsubasa.HtmlORM {
 
-    /// <summary>ノード共通のXPathプロパティを定義する属性</summary>
+    /// <summary>
+    /// ノード共通のXPathプロパティを定義する属性
+    /// 
+    /// by tsubasa</summary>
     [AttributeUsage(AttributeTargets.Property, Inherited = true, AllowMultiple = true)]
     public abstract class HtmlNodeAttribute : Attribute {
 

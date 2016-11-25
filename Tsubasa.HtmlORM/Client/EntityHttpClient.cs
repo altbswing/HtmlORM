@@ -8,6 +8,8 @@ namespace Tsubasa.HtmlORM {
 
     /// <summary>
     /// EntityでHttpのやり取りをするHttpClient
+    /// 
+    /// by tsubasa
     /// </summary>
     public class EntityHttpClient : HttpClient {
 
